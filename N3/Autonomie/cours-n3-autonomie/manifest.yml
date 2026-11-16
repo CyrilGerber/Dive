@@ -1,0 +1,140 @@
+version: 1
+source: "sources/Préparation NIVEAU III_Autonomie_PG+CG.pptx"
+source_sha256: "8076654ac3a3006b45710c6569286ee115537d4d8431222d784eb8637a5a6577"
+slide_count: 27
+slides:
+  - id: slide-001
+    source_slide: 1
+    title: "Préparation Niveau III\nLa THEORIE"
+    status: extracted
+    file: "slides/001-preparation-niveau-iii-la-theorie.md"
+  - id: slide-002
+    source_slide: 2
+    title: "Le PLAN DE SEANCE"
+    status: extracted
+    file: "slides/002-le-plan-de-seance.md"
+  - id: slide-003
+    source_slide: 3
+    title: "l'autonomie\nObjectifs et justifications"
+    status: extracted
+    file: "slides/003-l-autonomie-objectifs-et-justifications.md"
+  - id: slide-004
+    source_slide: 4
+    title: "l'autonomie\nLe cadre règlementaire"
+    status: needs_verification
+    file: "slides/004-l-autonomie-le-cadre-reglementaire.md"
+  - id: slide-005
+    source_slide: 5
+    title: "l'autonomie\nLe matériel obligatoire"
+    status: needs_verification
+    file: "slides/005-l-autonomie-le-materiel-obligatoire.md"
+  - id: slide-006
+    source_slide: 6
+    title: "l'autonomie\nPlanification en présence d’un dp\nQuelles consignes sont données par le DP (briefing) ?"
+    status: needs_verification
+    file: "slides/006-l-autonomie-planification-en-presence-d-un-dp-quelles-c.md"
+  - id: slide-007
+    source_slide: 7
+    title: "l'autonomie\nPlanification en présence d’un dp"
+    status: needs_verification
+    file: "slides/007-l-autonomie-planification-en-presence-d-un-dp.md"
+  - id: slide-008
+    source_slide: 8
+    title: "l'autonomie\nGESTION DE L’AIR"
+    status: needs_verification
+    file: "slides/008-l-autonomie-gestion-de-l-air.md"
+  - id: slide-009
+    source_slide: 9
+    title: "l'autonomie\nGESTION DE L’AIR"
+    status: needs_verification
+    file: "slides/009-l-autonomie-gestion-de-l-air.md"
+  - id: slide-010
+    source_slide: 10
+    title: "l'autonomie\nGESTION DE L’AIR"
+    status: needs_verification
+    file: "slides/010-l-autonomie-gestion-de-l-air.md"
+  - id: slide-011
+    source_slide: 11
+    title: "l'autonomie\nGESTION DE L’AIR"
+    status: needs_verification
+    file: "slides/011-l-autonomie-gestion-de-l-air.md"
+  - id: slide-012
+    source_slide: 12
+    title: "l'autonomie\nGESTION DE la désaturation"
+    status: needs_verification
+    file: "slides/012-l-autonomie-gestion-de-la-desaturation.md"
+  - id: slide-013
+    source_slide: 13
+    title: "l'autonomie\nGESTION DE la désaturation"
+    status: needs_verification
+    file: "slides/013-l-autonomie-gestion-de-la-desaturation.md"
+  - id: slide-014
+    source_slide: 14
+    title: "l'autonomie\nGESTION DE la désaturation"
+    status: needs_verification
+    file: "slides/014-l-autonomie-gestion-de-la-desaturation.md"
+  - id: slide-015
+    source_slide: 15
+    title: "l'autonomie\nGESTION DE la désaturation"
+    status: needs_verification
+    file: "slides/015-l-autonomie-gestion-de-la-desaturation.md"
+  - id: slide-016
+    source_slide: 16
+    title: "l'autonomie\nMISE AU POINT DE la COMMUNICATION"
+    status: needs_verification
+    file: "slides/016-l-autonomie-mise-au-point-de-la-communication.md"
+  - id: slide-017
+    source_slide: 17
+    title: "l'autonomie\nÉvolution en autonomie"
+    status: needs_verification
+    file: "slides/017-l-autonomie-evolution-en-autonomie.md"
+  - id: slide-018
+    source_slide: 18
+    title: "l'autonomie\nÉvolution en autonomie"
+    status: needs_verification
+    file: "slides/018-l-autonomie-evolution-en-autonomie.md"
+  - id: slide-019
+    source_slide: 19
+    title: "l'autonomie\nÉvolution en autonomie"
+    status: needs_verification
+    file: "slides/019-l-autonomie-evolution-en-autonomie.md"
+  - id: slide-020
+    source_slide: 20
+    title: "l'autonomie\nÉvolution en autonomie"
+    status: needs_verification
+    file: "slides/020-l-autonomie-evolution-en-autonomie.md"
+  - id: slide-021
+    source_slide: 21
+    title: "l'autonomie\nÉvolution en autonomie"
+    status: needs_verification
+    file: "slides/021-l-autonomie-evolution-en-autonomie.md"
+  - id: slide-022
+    source_slide: 22
+    title: "l'autonomie\nOrganisation en l’absence de dp"
+    status: needs_verification
+    file: "slides/022-l-autonomie-organisation-en-l-absence-de-dp.md"
+  - id: slide-023
+    source_slide: 23
+    title: "l'autonomie\nOrganisation en l’absence de dp"
+    status: needs_verification
+    file: "slides/023-l-autonomie-organisation-en-l-absence-de-dp.md"
+  - id: slide-024
+    source_slide: 24
+    title: "l'autonomie\nOrganisation en l’absence de dp"
+    status: needs_verification
+    file: "slides/024-l-autonomie-organisation-en-l-absence-de-dp.md"
+  - id: slide-025
+    source_slide: 25
+    title: "l'autonomie\nOrganisation en l’absence de dp"
+    status: needs_verification
+    file: "slides/025-l-autonomie-organisation-en-l-absence-de-dp.md"
+  - id: slide-026
+    source_slide: 26
+    title: "Voilà, vous pourrez bientôt plonger en autonomie !"
+    status: needs_verification
+    file: "slides/026-voila-vous-pourrez-bientot-plonger-en-autonomie.md"
+  - id: slide-027
+    source_slide: 27
+    title: "Merci de votre attention"
+    status: needs_verification
+    file: "slides/027-merci-de-votre-attention.md"

@@ -1,0 +1,13 @@
+{
+  "name": "cours-n3-autonomie",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Sources éditables du cours N3 Autonomie FFESSM",
+  "scripts": {
+    "pptx:check": "node scripts/pptx-check.mjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
